@@ -50,5 +50,5 @@ The model architecture consists of a feedforward Deep Learning with the followin
 - Hidden layers: [256, 512, 1024, 256, 128]
 - Activation function: ReLU
 
-##License
+## License
 This project is licensed under the MIT License. See the [LICENSE]() file for more details.
